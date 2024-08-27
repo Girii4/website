@@ -8,7 +8,7 @@ const Headers = styled.header`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 5rem;
+  padding: 0.2rem 5rem;
   background-color: var(--nav);
   color: var(--white);
   position: relative;
@@ -24,7 +24,7 @@ const Headers = styled.header`
 const Logo = styled.a`
   display: flex;
   align-items: center;
-  width: 6rem;
+  width: 10rem;
   height: auto;
   cursor: pointer;
   img {
