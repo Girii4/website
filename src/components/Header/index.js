@@ -190,7 +190,7 @@ const Header = () => {
         top: "0",
         left: "0",
         right: "0",
-        padding: "1rem 2.5rem",
+        padding: "0.2rem 0.2rem",
 
         borderRadius: "0 0 50px 50px",
 
