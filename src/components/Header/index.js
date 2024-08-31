@@ -212,7 +212,7 @@ const Header = () => {
         top: "1rem",
         left: "3rem",
         right: "3rem",
-        padding: "1.5rem 2rem",
+        padding: "0.2rem 0.2rem",
 
         borderRadius: "50px",
 
